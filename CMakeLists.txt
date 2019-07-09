@@ -8,3 +8,4 @@ enable_testing()
 
 add_subdirectory(error-code)
 add_subdirectory(move-semantics)
+add_subdirectory(sfinae)
